@@ -60,7 +60,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="mainnav nav navbar-nav">
-                        @include('partials.mainnav')
+
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -72,7 +72,7 @@
         ----- FLASH MESSAGING -----
     --------------------------------------------------------------------------------- -->
     <div class="container">
-        @include('flash::message')
+
     </div>
 
     <!-- --------------------------------------------------------------------------------
@@ -121,7 +121,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Faulkner County Landlord Association {{date('Y')}}. Site maintained by <a href="http://nathonscott.com" target="_blank">Nathon Scott</a>.
+                        Copyright &copy; Nathon Scott {{date('Y')}}. All Rights Reserved. Proudly hosted with <a href="https://forge.laravel.com/" target="_blank">Laravel Forge</a> and <a href="https://www.digitalocean.com/" target="_blank">Digital Ocean</a>!
                     </div>
                 </div>
             </div>
