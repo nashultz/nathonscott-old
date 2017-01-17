@@ -34,7 +34,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 </head>
-<body>
+<body id="app page-top">
 
     <!-- --------------------------------------------------------------------------------
         ----- MASTHEAD -----
@@ -91,7 +91,7 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4 hidden-print">
-                        <h3>Location</h3>
+                        <h3>Contact</h3>
                         <p>Nathon Scott</p>
                     </div>
                     <div class="footer-col col-md-4 hidden-print">
@@ -142,6 +142,9 @@
     <!-- --------------------------------------------------------------------------------
         ----- JAVASCRIPT -----
     --------------------------------------------------------------------------------- -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue@2.1.6/dist/vue.js"></script>
+    <script src="/js/app.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script>
         // jQuery for page scrolling feature - requires jQuery Easing plugin
