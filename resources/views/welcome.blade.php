@@ -5,5 +5,7 @@
 @endsection
 
 @section('content')
-    Coming soon!
+    <ul>
+        <li v-for="skill in skills">@{{ skill }}</li>
+    </ul>
 @endsection
