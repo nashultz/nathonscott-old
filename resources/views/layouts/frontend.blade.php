@@ -34,7 +34,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 </head>
-<body id="app">
+<body> <div id="app">
 
     <!-- --------------------------------------------------------------------------------
         ----- MASTHEAD -----
@@ -146,5 +146,5 @@
     <script src="https://unpkg.com/vue@2.1.6/dist/vue.js"></script>
     <script src="/js/app.js"></script>
 
-</body>
+</div> </body>
 </html>
