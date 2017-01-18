@@ -36,8 +36,8 @@
     <!-- Styles -->
     <style>
         html, body {
-            background-color: #fff;
-            color: #636b6f;
+            background-color: #050a63;
+            color: #9a9a9a;
             font-family: 'Raleway', sans-serif;
             font-weight: 100;
             height: 100vh;
@@ -91,7 +91,7 @@
 <div class="flex-center position-ref full-height">
     <div class="content">
         <div class="title m-b-md">
-            <img src="img/logo/logo-full-light.png">
+            <img src="img/logo/logo-full-dark.png">
         </div>
         <div class="title m-b-md">
             Coming Soon!
