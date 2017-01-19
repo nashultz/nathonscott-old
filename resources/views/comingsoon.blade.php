@@ -94,7 +94,7 @@
             <img src="img/logo/logo-full-dark.png">
         </div>
         <div class="title m-b-md">
-            Coming Soon!
+            Launching February 2017!
         </div>
     </div>
 </div>
